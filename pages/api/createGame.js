@@ -1,4 +1,4 @@
-import { db } from "../../../lib/firebase";
+import { db } from "../../lib/firebase";
 import { ref, set } from "firebase/database";
 import { v4 as uuidv4 } from "uuid";
 
