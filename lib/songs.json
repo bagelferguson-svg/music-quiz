@@ -1,0 +1,23 @@
+[
+  {
+    "id": "song1",
+    "title": "Rolling in the Deep",
+    "artist": "Adele",
+    "year": 2010,
+    "youtubeId": "rYEDA3JcQqw"
+  },
+  {
+    "id": "song2",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "year": 1975,
+    "youtubeId": "fJ9rUzIMcZQ"
+  },
+  {
+    "id": "song3",
+    "title": "Shape of You",
+    "artist": "Ed Sheeran",
+    "year": 2017,
+    "youtubeId": "JGwWNGJdvx8"
+  }
+]
