@@ -1,1 +1,0 @@
-export default function Home(){return <div>Music Quiz Next14</div>}
